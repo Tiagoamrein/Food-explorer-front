@@ -3,7 +3,7 @@ Um aplicativo onde sera criado um cardapio digital para um restaurante, Food exp
 
 Tecnologias usadas:
 
-*NodeJS *Express *knexjs *sqlite *bcryptjs
+*Reactjs *axios *styled-components *react-router-dom *Vite
 
 Deploy: https://food-explorer-ts.netlify.app/
 
